@@ -100,10 +100,10 @@
 <br/>
 <br/>
 ## 📊 My Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=bakshay96&theme=algolia" align="center" alt="AvinashKalmegh" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=bakshay96&theme=algolia" align="center" alt="Akshay Bombatkar" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakshay96&theme=2077" width="100%" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bakshay96&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/bakshay96/github-readme-activity-graph)
+[![Akshay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bakshay96&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/bakshay96/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/bakshay96) 
 
 ## ❤ Views and Followers
