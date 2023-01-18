@@ -1,18 +1,18 @@
-[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://AvinashKalmegh.io)
+[![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)](https://bakshay96.io)
 
-<h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Avinash Kalmegh <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
+<h1 align="center"><img height="30" width="40" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif"/>Hi there, I'm Akshay Bombatkar <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Avinash Kalmegh; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Akshay Bombatkar; I am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <img  margin-top="-50px" width="100%" src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AvinashKalmegh&label=Profile%20views&color=0e75b6&style=flat" alt="SauravMallik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakshay96&label=Profile%20views&color=0e75b6&style=flat" alt="Aksahy Bombatkar" /> </p>
 
 ## :sassy_man:  About me
- I am a passionate and self-motivated aspiring full-stack developer from Akola,Maharashtra(India)🏛.Specialization in MERN stack with a keen interest in learning and working with new technology💡.I always stay hungry to learn new things🤓. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+ I am a passionate and self-motivated aspiring full-stack developer from Buldhana,Maharashtra(India)🏛.Specialization in MERN stack with a keen interest in learning and working with new technology💡.I always stay hungry to learn new things🤓. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 <br/>
 
 - 🔭 I’m currently exploring and polishing my skills
@@ -21,20 +21,20 @@
 
 - ⚛️ Some technologies that I love to working with includes MERN stack, CSS & Typescript.
 
--  👨‍💻 My Portfilio[Click here](https://AvinashKalmegh.github.io/)
+-  👨‍💻 My Portfilio[Click here](https://bakshay96.github.io/)
 
--  👀 My Github Repositories [Click here](https://github.com/AvinashKalmegh?tab=repositories)
+-  👀 My Github Repositories [Click here](https://github.com/bakshay96?tab=repositories)
 
 -  🚀 I have learned couple of skills like React, Redux, JavaScript, HTML, CSS libraries like Chakra UI, & styled-components.
 
--  📫 How to reach me: **avinashkalmegh93@gmail.com**
+-  📫 How to reach me: **akshaymali.edu@gmail.com**
 
--  📄 Know about my skills  [Resume](https://drive.google.com/file/d/1xhABIqF3q0EsSpnZlSdTegrl72RpRAgj/view?usp=sharing)
+-  📄 Know about my skills  [Resume](https://drive.google.com/file/d/1GOj_2HXTBDILQ1xfynzR-T8wWc0mRbkH/view?usp=share_link)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
-  <a href="https://github.com/AvinashKAlmegh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avinash-kalmegh-584919237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav" height="30" width="40" /></a>
+  <a href="https://github.com/bakshay96" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshayb-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurav" height="30" width="40" /></a>
 </p>
 <br/>
 
@@ -76,9 +76,9 @@
     <img src="https://user-images.githubusercontent.com/82999542/132934744-131c1891-4a4f-4e88-a64a-36720ad7470b.png" alt="css3"/>   
  </p>
  
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=centauricoder01&show_icons=true&locale=en&layout=compact" alt="centauricoder01" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=centauricoder01&show_icons=true&locale=en" alt="centauricoder01" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=centauricoder01" alt="centauricoder01" /></a> </p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bakshay96&show_icons=true&locale=en&layout=compact" alt="centauricoder01" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bakshay96&show_icons=true&locale=en" alt="centauricoder01" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bakshay96" alt="centauricoder01" /></a> </p>
  -->
 
 <div align="center"><h3 align="center">Tools</h3> 
@@ -100,14 +100,14 @@
 <br/>
 <br/>
 ## 📊 My Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=AvinashKalmegh&theme=algolia" align="center" alt="AvinashKalmegh" width="100%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AvinashKalmegh&theme=2077" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=bakshay96&theme=algolia" align="center" alt="AvinashKalmegh" width="100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakshay96&theme=2077" width="100%" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AvinashKalmegh&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/AvinashKalmegh/github-readme-activity-graph)
-![GitHub metrics](https://metrics.lecoq.io/AvinashKalmegh) 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bakshay96&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/bakshay96/github-readme-activity-graph)
+![GitHub metrics](https://metrics.lecoq.io/bakshay96) 
 
 ## ❤ Views and Followers
-<a href="https://github.com/AvinashKalmegh/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=AvinashKalmegh">
+<a href="https://github.com/bakshay96/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=bakshay96">
 </a>
-<a href="https://github.com/AvinashKalmegh?tab=followers"><img src="https://img.shields.io/github/followers/AvinashKalmegh?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/bakshay96?tab=followers"><img src="https://img.shields.io/github/followers/bakshay96?label=Followers&style=social" alt="GitHub Badge"></a>
