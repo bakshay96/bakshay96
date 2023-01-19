@@ -106,6 +106,11 @@
 [![Akshay's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bakshay96&bg_color=000000&color=858585&line=787878&point=545454&area=true&hide_border=true)](https://github.com/bakshay96/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/bakshay96) 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 ## ❤ Views and Followers
 <a href="https://github.com/bakshay96/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=bakshay96">
