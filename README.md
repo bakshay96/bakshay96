@@ -29,7 +29,7 @@
 
 -  📫 How to reach me: **akshaymali.edu@gmail.com**
 
--  📄 Know about my skills  [Resume](https://drive.google.com/file/d/1GOj_2HXTBDILQ1xfynzR-T8wWc0mRbkH/view?usp=share_link)
+-  📄 Know about my skills  [Resume](https://drive.google.com/file/d/1GOj_2HXTBDILQ1xfynzR-T8wWc0mRbkH/view?usp=share_lin)
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
