@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakshay96&label=Profile%20views&color=0e75b6&style=flat" alt="Aksahy Bombatkar" /> </p>
+
 
 ## :sassy_man:  About me
  I am a passionate and self-motivated aspiring full-stack developer from Buldhana,Maharashtra(India)🏛.Specialization in MERN stack with a keen interest in learning and working with new technology💡.I always stay hungry to learn new things🤓. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
