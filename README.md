@@ -6,7 +6,7 @@
 <img align="right" width="500px" src = "https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt = "Coding">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakshay96&label=Profile%0views&color=0e75b6&style=flat" alt="bakshay96" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bakshay96&label=Profile%20views&color=0e75b6&style=flat" alt="bakshay96" /> </p>
 
 - 🌱 I’m currently learning **Next JS, Web-Socket** <img width="15" src="https://i.gifer.com/origin/b3/b34dc1592ae8556da933835c0d532738_w200.webp">
 
