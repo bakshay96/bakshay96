@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Akshay Bombatkar </h1>
+
+<h1 align="center">Hi there! I'm Akshay Bombatkar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+ <br>
+   
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Currently+Learning+Full-Stack+Web+Development;Open-Source+Developer;Nice+to+meet+you...)
 <h3 align="center"> Frontend Developer </h3>
 
 <p align="center">
@@ -13,10 +17,17 @@ Experienced and disciplined web developer with strong technical skills, committe
 
 <img align="right" width="400px" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Coding GIF">
 
-### 👨‍💻 About Me
+  ## 👨🏻‍💻 About Me:
 
-- 💼 Currently working as a **Frontend Developer at Freshmenu**
-- 🌱 I’m currently exploring and learning **Next.js & Web-Sockets** - 💬 Ask me about **Frontend Architecture, React, and Full Stack Web Development** - 📫 How to reach me: **[akshaymali.edu@gmail.com](mailto:akshaymali.edu@gmail.com)** - 📄 Know more about my experience: **[View My Resume](https://drive.google.com/file/d/1QR7UHZKO8ao8PYKv7kojVW5aWMqJI_6t/view?usp=share_link)**
+- 🙋‍♂️ All about me is at **[My Website](https://bakshay96.github.io/)**
+- 💼 Currently working as a **Frontend Developer**
+- 🌱 I’m currently learning `MERN Stack`
+- 👯 I’m looking to collaborate for `Projects`
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned 
+- 💓 I love designing websites and coding.
+- 💬 Ask me about **Frontend Architecture, React, and Full Stack Web Development**
+- 📫 How to reach me: **[akshaymali.edu@gmail.com](mailto:akshaymali.edu@gmail.com)**
+- 📄 Know more about my experience: **[View My Resume](https://drive.google.com/file/d/1QR7UHZKO8ao8PYKv7kojVW5aWMqJI_6t/view?usp=share_link)**
 - ⚡ All my links in one place: **[Linktree / Bio](https://bio.link/akshay_bombatkar)** <br/>
 
 ### 🤝 Connect with me 
