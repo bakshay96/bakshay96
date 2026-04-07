@@ -6,7 +6,7 @@
 <h3 align="center"> Frontend Developer </h3>
 
 <p align="center">
-Experienced and disciplined web developer with strong technical skills, committed to creating accessible, scalable, and user-friendly web applications. Quick learner, clear communicator, and capable of taking ownership of projects independently. Backed by over 1200+ hours of coding experience and 500+ solved DSA problems.
+Experienced and disciplined web developer with strong technical skills, committed to creating accessible, scalable, and user-friendly web applications. Quick learner, clear communicator, and capable of taking ownership of projects independently.
 </p>
 
 <div align="center"> 
