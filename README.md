@@ -27,7 +27,7 @@ Experienced and disciplined web developer with strong technical skills, committe
 - 💓 I love designing websites and coding.
 - 💬 Ask me about **Frontend Architecture, React, and Full Stack Web Development**
 - 📫 How to reach me: **[akshaymali.edu@gmail.com](mailto:akshaymali.edu@gmail.com)**
-- 📄 Know more about my experience: **[View My Resume](https://drive.google.com/file/d/1QR7UHZKO8ao8PYKv7kojVW5aWMqJI_6t/view?usp=share_link)**
+- 📄 Know more about my experience: **[View My Resume](https://drive.google.com/file/d/1GOj_2HXTBDILQ1xfynzR-T8wWc0mRbkH/view?usp=share_link)**
 - ⚡ All my links in one place: **[Linktree / Bio](https://bio.link/akshay_bombatkar)** <br/>
 
 ### 🤝 Connect with me 
