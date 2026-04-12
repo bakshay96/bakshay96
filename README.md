@@ -28,7 +28,7 @@ I am a **Frontend Engineer** specializing in the modern JavaScript ecosystem. I 
 - 🚀 **Core Expertise:** React.js, Next.js, and State Management (Redux/Toolkit).
 - 🛠️ **Full-Stack Capability:** Proficient in Node.js, Express, and MongoDB.
 - 🎨 **UI/UX Engineering:** Expert in Tailwind CSS, Material UI, and responsive design systems.
-- ⚙️ **Cloud & DevOps:** Hands-on experience with AWS (S3), Vercel, and automated deployment.
+- ⚙️ **Cloud :** Hands-on experience with AWS (S3), Vercel, and automated deployment.
 - 🤝 **Collaboration:** Experienced in Agile workflows and high-impact project ownership.
 
 ---
