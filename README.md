@@ -16,9 +16,6 @@
 </p>
 
 <div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=bakshay96&label=Profile%20Views&color=016EEA&style=flat-square" alt="Profile views" /> 
-</div>
-<div align="center"> 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bakshay96" alt="Profile views" /> 
 </div>
 ---
